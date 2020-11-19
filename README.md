@@ -10,4 +10,4 @@ All analyses were done in `R`. The code to conduct the simulations is in the `Co
 
 ## License
 
-The analysis code is released under the [CC-BY-4.0](https://opensource.org/licenses/mit-license.php).
+The code is released under the [CC-BY-4.0](https://opensource.org/licenses/mit-license.php).
