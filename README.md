@@ -11,3 +11,5 @@ All analyses were done in `R`. The code to conduct the simulations is in the `Co
 ## License
 
 The code is released under the [CC-BY-4.0](https://opensource.org/licenses/mit-license.php).
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4281137.svg)](https://doi.org/10.5281/zenodo.4281137)
